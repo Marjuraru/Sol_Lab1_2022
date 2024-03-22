@@ -10,6 +10,7 @@ void read_data(int *ptr_n, int coded_word_numbers[], char coded_word[]);
 void show_decoded_word(int n, int coded_word_numbers[], char coded_word[]);
 void sort(int n, int coded_word_numbers[], char coded_word[]);
 //holaaaa marcelo
+//ghol amiguelk
 int main()
 {
     int n;
